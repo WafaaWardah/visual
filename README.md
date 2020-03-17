@@ -1,7 +1,7 @@
 # Visual
 A Convolutional Neural Network based model to predict the peptide binding sites in proteins.
-The data files contain sample preprocessed protein data (details found in the JTB paper).
 ## Data Files
+The data files contain sample preprocessed protein data (details found in the JTB paper).
 - train_7_set.csv and train_labels.txt
 - val_7_set.csv and val_labels.txt
 - test_7_set.csv and test_labels.txt
