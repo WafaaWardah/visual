@@ -11,3 +11,4 @@ The data files contain sample preprocessed protein data (details found in the JT
 - dataset.py (This file loads datasets.)
 ## Guide
 Put all these files in one folder and run the experiment.py file.
+The experiment will continue running iterations until you manually stop/kill it.
