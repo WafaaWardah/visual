@@ -1,7 +1,7 @@
 # Visual
 **A Convolutional Neural Network based model to predict the peptide binding sites in proteins.**\
 Please cite the associated publication when using these codes.\
-You can find the publication here https://doi.org/10.1016/j.jtbi.2020.110278 \
+You can find the publication here https://doi.org/10.1016/j.jtbi.2020.110278 
 
 ## Data Files
 The data files contain sample preprocessed protein data (details found in the JTB paper).
