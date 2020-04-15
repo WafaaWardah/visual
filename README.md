@@ -1,7 +1,8 @@
 # Visual
 **A Convolutional Neural Network based model to predict the peptide binding sites in proteins.**\
 Please cite the associated publication when using these codes.\
-Citation: W. Wardah, A. Dehzangi and G. Taherzadeh et al., Predicting protein-peptide binding sites with a deep convolutional neural network, Journal of Theoretical Biology, https://doi.org/10.1016/j.jtbi.2020.110278
+**Citation:** W. Wardah, A. Dehzangi and G. Taherzadeh et al., Predicting protein-peptide binding sites with a deep convolutional neural network, Journal of Theoretical Biology, https://doi.org/10.1016/j.jtbi.2020.110278 \
+**Environment:** The original experiment was run on GeForce GTX 1060 Ti graphics card.
 
 ## Data Files
 The data files contain sample preprocessed protein data (details found in the JTB paper).
